@@ -13,7 +13,7 @@ Crie uma classe estática chamada ConversorUnidades que deve conter os seguintes
 Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
 
-![Texto Alternativo](C:\Users\gabri\Desktop\CONVERSOR.png)
+![Diagrama UML](assets/Classe%20Abstrata.png)
 
 
 ## 🛠️ Construído com
